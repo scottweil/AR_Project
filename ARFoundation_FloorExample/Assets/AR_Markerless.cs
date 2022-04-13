@@ -56,6 +56,7 @@ public class AR_Markerless : MonoBehaviour
             {
                 if (hitInfo.transform.gameObject.layer == LayerMask.NameToLayer("Indicator"))
                 {
+
                     placedModel = Instantiate(model, hitInfo.transform.position, hitInfo.transform.rotation);
                 }
             }

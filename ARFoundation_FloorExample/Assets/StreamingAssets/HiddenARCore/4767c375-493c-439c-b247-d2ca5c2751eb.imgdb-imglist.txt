@@ -1,3 +1,0 @@
-72bdfa74f68449769a5c0633f50beb44|C:\Users\medici\Documents\GitHub\AR_Project\ARFoundation_FloorExample\Assets\Image\earth.jpg|1
-e98307b8659b43feb7d12c098ea7ce7f|C:\Users\medici\Documents\GitHub\AR_Project\ARFoundation_FloorExample\Assets\Image\mario.jpg|1
-c57e8200bdcb4584be4c4c56680c3168|C:\Users\medici\Documents\GitHub\AR_Project\ARFoundation_FloorExample\Assets\Image\unitylogo.jpg|1
